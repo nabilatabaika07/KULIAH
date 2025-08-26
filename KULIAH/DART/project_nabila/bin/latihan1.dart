@@ -11,3 +11,8 @@ void main () {
        print ("tinggi : $tinggi");
         print ("prodi : $prodi");
 }
+
+void main (list<String> args) {
+    Set<dynamic> angka = {1, 2, 3, 4, 5};
+    
+}
